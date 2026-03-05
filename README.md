@@ -144,3 +144,13 @@ Through this project, the following prompt engineering concepts were explored:
 - Business-focused AI content generation
 
 ---
+
+## Example
+
+Input:
+Business Name: SmileCraft  
+Location: Bangalore  
+Type: Dental Clinic  
+
+Output:
+Structured AI prompt that generates homepage copy for the business.
